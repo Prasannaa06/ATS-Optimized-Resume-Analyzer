@@ -35,4 +35,5 @@ Make sure you have the following installed:
 - Include job description matching for targeted resume improvements.
 - Integrate more AI models for deeper analysis.
 ## 👤 Author
-- **[Harsha Hemanth](https://github.com/Harsha-Hemanth)** - Developer & Maintainer
+- **[Sri Laxmi Prasanna](https://github.com/Prasannaa06)** - Developer
+- **[Harsha Hemanth](https://github.com/Harsha-Hemanth)** - Developer 
